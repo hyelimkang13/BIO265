@@ -1,4 +1,4 @@
-
+## Cell Types, Neurotransmitter Usage, and Sensory Processing in the Octopus Brain
 
 ## Background
 = Abstract
@@ -31,28 +31,3 @@ Where all of the experimental information lives, including any *executed* code. 
  * **`figures`**: Any code used to generate figures for your finished work, presentations, or for any other use.
 
 
-
-
-1. **`LICENSE`**: A legal protection of your work. *It is important to think deeply about the licensing of your work, and is not a decision to be made lightly. See [this useful site](https://choosealicense.com/) for more information about licensing and choosing the correct license for your project.*
-
-2. **`README.md`**: A descriptive yet succinct description of your research project and information regarding the structure outlined below.
-
-# License Information
-
-<p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
-  <a rel="license"
-     href="http://creativecommons.org/publicdomain/zero/1.0/">
-    <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
-  </a>
-  <br />
-  To the extent possible under law,
-  <a rel="dct:publisher"
-     href="github.com/gchure/reproducible_research">
-    <span property="dct:title">Griffin Chure</span></a>
-  has waived all copyright and related or neighboring rights to
-  <span property="dct:title">A template for using git as a platform for reproducible scientific research</span>.
-This work is published from:
-<span property="vcard:Country" datatype="dct:ISO3166"
-      content="US" about="github.com/gchure/reproducible_research">
-  United States</span>.
-</p>
