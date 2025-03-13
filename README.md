@@ -1,4 +1,4 @@
-# Git + GitHub As A Platform For Reproducible Research 
+
 
 ## Background
 = Abstract
