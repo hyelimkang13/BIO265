@@ -1,4 +1,4 @@
-## `templates`
+## `Code`
 While you may repeat an experiment many, many (many) times. **you must never
 directly copy one day's folder and simply rename the files!** This is a
 recipe for disaster and confusion as you may forget to change a detail that
