@@ -1,7 +1,7 @@
 ## Cell Types, Neurotransmitter Usage, and Sensory Processing in the Octopus Brain
 
 ### **`Background`** 
-In this project, we employed single-cell RNA sequencing (scRNA-seq) using the 10X Genomics platform to analyze three adult brain samples of Octopus vulgaris with the aim of constructing a comprehensive cellular atlas and understanding the evolution of neural complexity. Our workflow begins with rigorous preprocessing—including quality control, ambient RNA contamination correction using DecontX, normalization, feature selection, and dimensionality reduction via PCA—with batch effects corrected by Harmony.
+In this project, we employed single-cell RNA sequencing (scRNA-seq) using the 10X Genomics platform to analyze three adult brain samples of *Octopus vulgaris* with the aim of constructing a comprehensive cellular atlas and understanding the evolution of neural complexity. Our workflow begins with rigorous preprocessing—including quality control, ambient RNA contamination correction using DecontX, normalization, feature selection, and dimensionality reduction via PCA—with batch effects corrected by Harmony.
 
 We then applied Leiden clustering at multiple resolutions, ultimately identifying 20 distinct cell clusters. Differential gene expression analysis (using the Wilcoxon rank-sum test) allowed us to pinpoint highly expressed genes specific to each cluster. By mapping these marker genes to known human homologs and comparing them with established cell-type markers, we annotated most clusters, with validation via dot plots confirming distinct expression patterns.
 
