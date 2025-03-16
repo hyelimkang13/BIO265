@@ -1,24 +1,21 @@
 ## Cell Types, Neurotransmitter Usage, and Sensory Processing in the Octopus Brain
 
-## Background
+### **`Background`** 
 
 
-## Data
-To use this template for your research, fork this repository, change the name
-to something descriptive for your project, and adjust the licensing as you
-see fit.
+### **`Data`** 
+Due to GitHub’s size limitations, we couldn’t include all the files used in this project. Instead, we have provided brief explanations for each data file below:
 
-To use this repository for your own research, simply click "Use this template" 
-at the top of this page
+- octo_brain_merged.h5ab : Merged data from three octopus brain single-cell RNA samples (octo.brain5, octo.brain6, and octo.brain7).
+- octo_brain_decontxed.h5ad: Data file generated after performing DecontX analysis in R 
+- octo_brain_preprocessed.h5ab: Data file produced after completing all preprocessing steps.
+- final_ob_hu: octopous - File containing the mapping between octopus genes and their human homologs.
 
-> :warning: :warning: :warning: I wouldn't advise forking this repository. As you can only fork a given repository once, there is little utility in forking this repo if you hope to use it again in your future projects :warning: :warning: :warning:
-
-Alternatively, you can clone the repository and restructure as necessary. Via 
-the command line,
-
-## Code
-
-The repository is split into seven main directories, many of which have subdirectories. This structure has been designed to be easily navigable by humans and computers alike, allowing for rapid location of specific files and instructions. Within each directory is a `README.md` file which summarizes the purpose of that directory as well as some examples where necessary. This structure may not be perfect for your intended us and may need to be modified. Each section is briefly described below. 
+### **`Code`** 
+Data manipulation and analysis scripts:
+- preprocess_decontx_brain.r : An R script used for performing DecontX analysis to mitigate ambient RNA contamination.
+- octo_brain_preprocessing.ipynb: A Jupyter notebook containing code for data preprocessing.
+- octo_brain_analysis.ipynb: A Jupyter notebook containing code for data analysis.
 
 ### **`Results`** 
 Where all of the experimental information lives, including any *executed* code. lives. This includes pipelines, scripts, and figure files. 
