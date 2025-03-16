@@ -5,7 +5,7 @@ In this project, we employed single-cell RNA sequencing (scRNA-seq) using the 10
 
 We then applied Leiden clustering at multiple resolutions, ultimately identifying 20 distinct cell clusters. Differential gene expression analysis (using the Wilcoxon rank-sum test) allowed us to pinpoint highly expressed genes specific to each cluster. By mapping these marker genes to known human homologs and comparing them with established cell-type markers, we annotated most clusters, with validation via dot plots confirming distinct expression patterns.
 
-Finally, gene enrichment analysis was performed using human homolog annotations to reveal expression patterns for neurotransmitter-related and sensory-related genes, uncovering several interesting trends. Our findings provide a novel reference dataset for the adult octopus brain, highlighting both similarities and differences between octopus and mammalian brain features, and contribute to a broader understanding of cephalopod neuroscience and evolution.
+Finally, gene enrichment analysis was performed using human homolog annotations to reveal expression patterns for neurotransmitter-related and sensory-related genes, uncovering several interesting results. Our findings provide a novel reference dataset for the adult octopus brain, highlighting both similarities and differences between octopus and mammalian brain features, and contribute to a broader understanding of cephalopod neuroscience and evolution.
 
 ### **`Data`** 
 Due to GitHub’s size limitations, we couldn’t include all the files used in this project. Instead, we have provided brief explanations for each data file below:
