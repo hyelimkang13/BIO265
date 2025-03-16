@@ -1,7 +1,7 @@
 ## Cell Types, Neurotransmitter Usage, and Sensory Processing in the Octopus Brain
 
 ## Background
-= Abstract
+
 
 ## Data
 To use this template for your research, fork this repository, change the name
@@ -16,9 +16,6 @@ at the top of this page
 Alternatively, you can clone the repository and restructure as necessary. Via 
 the command line,
 
-```
-> git clone git@github.com:gchure/reproducible_research
-```
 ## Code
 
 The repository is split into seven main directories, many of which have subdirectories. This structure has been designed to be easily navigable by humans and computers alike, allowing for rapid location of specific files and instructions. Within each directory is a `README.md` file which summarizes the purpose of that directory as well as some examples where necessary. This structure may not be perfect for your intended us and may need to be modified. Each section is briefly described below. 

@@ -1,3 +1,3 @@
-preprocess_decontx_brain_hy.r : R code for 
-octo_brain_analysis.ipynb
-octo_brain_preprocessing_hy.ipynb
+preprocess_decontx_brain.r : An R script used for performing DecontX analysis to mitigate ambient RNA contamination.
+octo_brain_preprocessing.ipynb: A Jupyter notebook containing code for data preprocessing.
+octo_brain_analysis.ipynb: A Jupyter notebook containing code for data analysis.
