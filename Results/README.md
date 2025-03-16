@@ -1,2 +1,2 @@
-- octo_brain_homolog_list_top60.csv: A CSV file listing the top 60 highly expressed genes for each cluster, along with their corresponding human homolog names.
+- octo_brain_homolog_list_top60.csv:  This CSV file lists the top 60 most highly expressed genes for each of the 20 clusters produced by Leiden clustering, along with their corresponding human homolog names.
 - octo_brain_annotated.h5ab: (Not included due to size limitations) This file contains the final data after adding cell type annotations based on the top 60 highly expressed genes per cluster.
